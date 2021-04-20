@@ -2,7 +2,7 @@
 
 ### Telco Customer Churn
 ```
-Focused customer retention programs
+Predict behavior to retain customers
 
 ```
 
