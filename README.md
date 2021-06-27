@@ -9,4 +9,4 @@
 5. Manufacturing
 
 ```
-The datasets are based on sources from Kaggle. The presentation for the e-commerce notebook is still under completion
+The datasets are based on sources from Kaggle. 

@@ -18,4 +18,3 @@ CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigne
 Country: Country name. Nominal, the name of the country where each customer resides.
 ```
 
-- Powerpoint presentation pending
